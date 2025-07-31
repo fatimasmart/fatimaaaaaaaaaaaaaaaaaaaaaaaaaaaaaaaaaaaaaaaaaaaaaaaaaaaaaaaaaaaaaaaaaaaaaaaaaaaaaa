@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <style>
+        p{
+          background-color: brown;
+        }
+      </style>
+  <title>Pizza</title>
+
+  </head>
+  <body>
+    <h1>Pizza</h1>
+    <img src="pizza.jpg" alt="image in my webpage" style="width:256px;height:128px;">
+    your browser does not support the video tag
+    <p>pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil,
+    oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial
+    setting, using a wood-fired oven heated to a very high temperature—and served hot</p>
+    
+    <body>
+
+        <title>how to make a delicious Pizza</title>
+        
+        </body>
+     <h2>how to make a delicious pizza</h2>
+     <iframe> width="560px" height="315px"
+      src="https://youtu.be/mHipexNOAq4?si=gbj1HvJ_YFrAYmge">
+             </iframe>
+
+            </body>
+
+        </html>
